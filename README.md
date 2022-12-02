@@ -25,7 +25,7 @@ open the project in a terminal and run the cucumber command
 
 ```
 
-# Autor
+# Author
 
 Ivan Vitor Morais Cardoso
 
