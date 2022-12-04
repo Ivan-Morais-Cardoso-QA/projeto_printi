@@ -1,3 +1,7 @@
+#In this file all the tests are being created
+
+
+
 #Here I am opening the browser and searching for the Printi website 
 #and I am verifying that both are correct 
 When('I search the Printi website') do

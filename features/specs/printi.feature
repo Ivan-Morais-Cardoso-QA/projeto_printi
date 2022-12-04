@@ -1,3 +1,5 @@
+# In this file the phrases that form the tests in BDD are invoked
+
 Feature: Validation of product searches on the Printi website
 
 Background: Launching the browser and accessing the Printi website
