@@ -21,7 +21,8 @@ Prerequisites: Having installed the aforementioned technologies
 git clone https://github.com/ivan-morais-cardoso-qa/projeto_printi
 
 # run the project
-open the project in a terminal and run the cucumber command
+open the project in a terminal and run the cucumber command, example:
+![WhatsApp Image 2022-12-04 at 19 31 34](https://user-images.githubusercontent.com/111606761/205519479-2ba7dd3b-364b-487a-9f7a-300b955ad05e.jpeg)
 
 ```
 
